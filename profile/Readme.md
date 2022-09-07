@@ -3,7 +3,7 @@
 Welcome to the GitMails organization on GitHub. 
 
 ## Instant Notifications for Critical Github Org Events.
-GitMails  :rocket: is a github marketplace application that sends github organization owners notification emails when a critical github event has been
+GitMails  📮 is a github marketplace application that sends github organization owners notification emails when a critical github event has been
 triggered. It helps in keeping track of potential hazardous activities in a organization. GitMails is currently free for both public and 
 private github organizations.
 
