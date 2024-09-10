@@ -1,4 +1,8 @@
-# Hello, World! :wave:
+# Notice: This project is being deprecated and will not be taken further.
+
+
+
+## Hello, World! :wave:
 
 Welcome to the GitMails organization on GitHub. 
 
